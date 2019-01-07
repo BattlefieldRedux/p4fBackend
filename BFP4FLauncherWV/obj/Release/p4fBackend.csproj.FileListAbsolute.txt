@@ -11,3 +11,5 @@ C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\BFP4FLaunch
 C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\BFP4FLauncherWV\obj\Release\p4fBackend.csproj.CopyComplete
 C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\BFP4FLauncherWV\obj\Release\BFP4FLauncherWV.exe
 C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\BFP4FLauncherWV\obj\Release\BFP4FLauncherWV.pdb
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\BFP4FLauncherWV\bin\Release\BlazeLibWV.pdb
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\BFP4FLauncherWV\obj\Release\p4fBackend.csprojAssemblyReference.cache

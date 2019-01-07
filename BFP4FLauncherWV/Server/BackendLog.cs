@@ -1,15 +1,10 @@
-﻿using System;
-using System.IO;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.IO;
 
 namespace BFP4FLauncherWV
 {
     public static class BackendLog
     {
-        public static string logFile = "BackendLog.txt";
+        public static string logFile = "_BackendLog.txt";
         public static void Clear()
         {
             if (File.Exists(logFile))
