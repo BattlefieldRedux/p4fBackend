@@ -1,0 +1,6 @@
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\BlazeLib\bin\Release\BlazeLib.dll
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\BlazeLib\bin\Release\BlazeLib.pdb
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\BlazeLib\obj\Release\BlazeLib.csprojAssemblyReference.cache
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\BlazeLib\obj\Release\BlazeLib.csproj.CoreCompileInputs.cache
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\BlazeLib\obj\Release\BlazeLib.dll
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\BlazeLib\obj\Release\BlazeLib.pdb

@@ -1,0 +1,10 @@
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\UDPMon\bin\Release\UDPMon.exe.config
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\UDPMon\bin\Release\UDPMon.exe
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\UDPMon\bin\Release\UDPMon.pdb
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\UDPMon\obj\Release\UDPMon.Form1.resources
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\UDPMon\obj\Release\UDPMon.Properties.Resources.resources
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\UDPMon\obj\Release\UDPMon.csproj.GenerateResource.cache
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\UDPMon\obj\Release\UDPMon.csproj.CoreCompileInputs.cache
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\UDPMon\obj\Release\UDPMon.exe
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\UDPMon\obj\Release\UDPMon.pdb
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\p4fBackend\UDPMon\obj\Release\UDPMon.csprojAssemblyReference.cache

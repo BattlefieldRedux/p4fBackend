@@ -8,13 +8,13 @@ with this tool you can research the blaze side of the game and the server
 
 -BlazeShark can be used with the backend to examine blaze packet content, can be choosen at start of launcher
 
--BlazeLibWV is a library for reading and creating blaze packets, also for creating log dumps
+-BlazeLib is a library for reading and creating blaze packets, also for creating log dumps
 
 -UDP Monitor WV - Tool for examining the highspeed bitstream of the game traffic over udp
 
 -"Other" contain the minimal frontend files that need to be hosted via xampp or internal webbrowser, and other files
 
-[more information in the wiki](https://github.com/zeroKilo/BFP4FToolsWV/wiki)
+[more information in the wiki](https://github.com/Synaxis/p4fBackend/wiki)
 
 
 # THIS IS UNFINISHED AND FOR RESEARCH ONLY!!!

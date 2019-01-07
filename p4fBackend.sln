@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p4fBackend", "BFP4FLauncherWV\p4fBackend.csproj", "{21672CE9-A916-4790-862F-56D8420E3AA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p4fBackend", "P4FLauncher\p4fBackend.csproj", "{21672CE9-A916-4790-862F-56D8420E3AA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazeLib", "BlazeLibWV\blazeLib.csproj", "{4053EF39-B6BE-4A51-8037-B3F3438D2371}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazeLib", "BlazeLib\BlazeLib.csproj", "{4053EF39-B6BE-4A51-8037-B3F3438D2371}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazeShark", "BlazeSharkWV\BlazeShark.csproj", "{CD67133E-B905-4CD1-ADBD-73E9E0F70BD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazeShark", "BlazeShark\BlazeShark.csproj", "{CD67133E-B905-4CD1-ADBD-73E9E0F70BD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPMon", "UDPMonitorWV\UDPMon.csproj", "{FC30C556-C2CD-4783-AFCC-DC1403868D87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPMon", "UDPMon\UDPMon.csproj", "{FC30C556-C2CD-4783-AFCC-DC1403868D87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

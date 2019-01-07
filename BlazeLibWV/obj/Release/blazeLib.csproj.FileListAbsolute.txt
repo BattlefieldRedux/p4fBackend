@@ -1,6 +1,0 @@
-C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\BlazeLibWV\bin\Release\BlazeLibWV.dll
-C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\BlazeLibWV\bin\Release\BlazeLibWV.pdb
-C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\BlazeLibWV\obj\Release\blazeLib.csprojAssemblyReference.cache
-C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\BlazeLibWV\obj\Release\blazeLib.csproj.CoreCompileInputs.cache
-C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\BlazeLibWV\obj\Release\BlazeLibWV.dll
-C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\BlazeLibWV\obj\Release\BlazeLibWV.pdb
