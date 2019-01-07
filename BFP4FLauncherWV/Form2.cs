@@ -15,8 +15,11 @@ namespace BFP4FLauncherWV
 {
     public partial class Form2 : Form
     {
+
         public Form2()
+
         {
+
             InitializeComponent();
         }
 
@@ -44,14 +47,16 @@ namespace BFP4FLauncherWV
             checkBox1.Enabled =
             checkBox2.Enabled = 
             checkBox3.Enabled = 
-            button1.Enabled =
             button6.Enabled = false;
             BackendLog.Clear();
-            ProviderInfo.backendIP = textBox1.Text;
+           string globalip = textBox1.Text;
+
+        ProviderInfo.backendIP = textBox1.Text;
             RedirectorServer.useSSL = checkBox1.Checked;
             if (!checkBox2.Checked)
                 RedirectorServer.targetPort = 30001;
             MagmaServer.basicMode = true;
+            RichTextBox rtb1 = null;
             RedirectorServer.box =
             BlazeServer.box =
             Webserver.box =
@@ -75,8 +80,8 @@ namespace BFP4FLauncherWV
         private void button2_Click(object sender, EventArgs e)
         {
             string args = "+key \"eakey\" +useServerMonitorTool 0 +soldierName \"test-server\" +sessionId 1234 +magmaProtocol http +magmaHost \"#HOSTIP#\" +magma 1 +guid \"5678\" +secret \"secret\"";
-            args = args.Replace("#HOSTIP#", textBox1.Text);
-            Helper.RunShell("bfp4f_w32ded.exe", args);
+            args = args.Replace("#HOSTIP#", textBox1.Text); //not working lol 
+            Helper.RunShell("BFP4f_w32ded.exe", args);
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -171,5 +176,6 @@ namespace BFP4FLauncherWV
                 }
             }
         }
+       
     }
 }

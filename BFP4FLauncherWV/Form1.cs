@@ -1,21 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace BFP4FLauncherWV
 {
     public partial class Form1 : Form
     {
+        
         public Form1()
         {
             InitializeComponent();
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -24,6 +18,8 @@ namespace BFP4FLauncherWV
             this.Text += " - Build " + Resources.Resource1.BuildDate;
             RefreshProfiles();
         }
+
+     
 
         private void RefreshProfiles()
         {
@@ -84,7 +80,7 @@ namespace BFP4FLauncherWV
             string args = rtb3.Text.Replace("\r", "").Replace("\n", " ");
             while (args.Contains("  "))
                 args = args.Replace("  ", " ");
-            Helper.RunShell("bfp4f_w32ded.exe", args);
+            Helper.RunShell("BFP4f_w32ded.exe", args);
         }
 
         private void killRunningProcessesToolStripMenuItem_Click(object sender, EventArgs e)
@@ -101,7 +97,6 @@ namespace BFP4FLauncherWV
             string args = Resources.Resource1.client_startup;
             args = args.Replace("#SESSION#", p.id.ToString());
             args = args.Replace("#PLAYER#", p.name);
-            args = args.Replace("#IP#", toolStripTextBox4.Text);
             Helper.RunShell("bfp4f.exe", args);
         }
 
@@ -111,5 +106,6 @@ namespace BFP4FLauncherWV
             f.ShowDialog();
             RefreshProfiles();
         }
+        
     }
 }

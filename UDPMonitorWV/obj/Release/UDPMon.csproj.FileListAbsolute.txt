@@ -1,0 +1,9 @@
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\UDPMonitorWV\bin\Release\UDPMonitorWV.exe.config
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\UDPMonitorWV\bin\Release\UDPMonitorWV.exe
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\UDPMonitorWV\bin\Release\UDPMonitorWV.pdb
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\UDPMonitorWV\obj\Release\UDPMonitorWV.Form1.resources
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\UDPMonitorWV\obj\Release\UDPMonitorWV.Properties.Resources.resources
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\UDPMonitorWV\obj\Release\UDPMon.csproj.GenerateResource.cache
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\UDPMonitorWV\obj\Release\UDPMon.csproj.CoreCompileInputs.cache
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\UDPMonitorWV\obj\Release\UDPMonitorWV.exe
+C:\Users\Synaxis\Documents\goWork\src\gitlab.com\oiacow\BFP4FToolsWV\UDPMonitorWV\obj\Release\UDPMonitorWV.pdb

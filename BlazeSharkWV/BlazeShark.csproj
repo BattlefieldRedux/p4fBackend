@@ -78,9 +78,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BlazeLibWV\BlazeLibWV.csproj">
+    <ProjectReference Include="..\BlazeLibWV\blazeLib.csproj">
       <Project>{4053ef39-b6be-4a51-8037-b3f3438d2371}</Project>
-      <Name>BlazeLibWV</Name>
+      <Name>blazeLib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

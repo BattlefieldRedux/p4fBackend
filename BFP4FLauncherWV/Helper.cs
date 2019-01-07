@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Net.Security;
 using System.Net.Sockets;
-using System.Text;
-using System.Threading.Tasks;
 using System.Diagnostics;
 using System.Windows.Forms;
 
@@ -71,8 +67,8 @@ namespace BFP4FLauncherWV
         }
         public static void RunShell(string file, string command)
         {
-            Process process = new System.Diagnostics.Process();
-            ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
+            Process process = new Process();
+            ProcessStartInfo startInfo = new ProcessStartInfo();
             startInfo.FileName = file;
             startInfo.Arguments = command;
             process.StartInfo = startInfo;
@@ -81,12 +77,12 @@ namespace BFP4FLauncherWV
         public static void KillRunningProcesses()
         {
             int countClient = 0, countServer = 0;
-            foreach (var process in Process.GetProcessesByName("bfp4f"))
+            foreach (var process in Process.GetProcessesByName("BFP4f"))
             {
                 process.Kill();
                 countClient++;
             }
-            foreach (var process in Process.GetProcessesByName("bfp4f_w32ded"))
+            foreach (var process in Process.GetProcessesByName("BFP4f_w32ded"))
             {
                 process.Kill();
                 countServer++;
